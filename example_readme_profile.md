@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Sinwoo Kim!
 
 🎓 ITM Student at SeoulTech | 🌱 Learning Full-Stack Development | 🚀 Open Source Enthusiast  
 
@@ -9,7 +9,7 @@
 - 💻 **Languages**: Java, Python, JavaScript  
 - 🌐 **Frameworks & Libraries**: Spring Boot, Django, React  
 - 🛢️ **Databases**: MySQL, PostgreSQL  
-- ⚙️ **Tools & Platforms**: Git, GitHub, Docker  
+- ⚙️ **Tools & Platforms**: Git, GitHub
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 📞 Contact Me
 
-- 📧 **Email**: yourname@example.com  
+- 📧 **Email**: tlsdn630@gmail.com  
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourname)  
 - 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
 
