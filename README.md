@@ -111,7 +111,7 @@
 
 ## 📞 Contact Me
 
-- 📧 **Email**: tlsdn630@gmail.com
+- 📧 **Email**: tlsdn630@seoultech.ac.kr
 - 🏠 **HomeTogether**: [hometogether.kr](https://hometogether.kr)
 
 ---
