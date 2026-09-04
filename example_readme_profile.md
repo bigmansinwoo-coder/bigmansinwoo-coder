@@ -78,7 +78,7 @@
 
 ### 나의 역할
 
-서비스 기획 · 프로덕트 · 운영. 문제 정의와 서비스 구조 설계부터, 프론트–백엔드 API 스펙 조율, 배포 환경 구성, 실제 입주 가구 운영까지 담당하고 있습니다.
+서비스 기획 · 프로덕트 · 운영. 문제 정의와 서비스 구조 설계부터, 프론트–백엔드 API 스펙 조율, 실제 입주 가구 운영까지 담당하고 있습니다.
 
 ### 기술 구성
 
@@ -111,8 +111,8 @@
 
 ## 📞 Contact Me
 
-- 📧 **Email**: tlsdn630@gmail.com
-- 🏠 **HomeTogether**: [hometogether.kr](https://hometogether.kr)
+- 📧 **Email**: tlsdn630@seoultech.ac.kr
+- 🏠 **HomeTogether**: [hometogether.kr](https://hometogether.kr) -> 배포 준비 중.
 
 ---
 
