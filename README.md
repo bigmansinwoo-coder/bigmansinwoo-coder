@@ -18,7 +18,7 @@
 문제를 직접 정의하고, 서비스로 만들어 실제 운영까지 합니다.
 
 - 🏠 **HomeTogether** 창업 · 기획 · 운영 — 빈 방을 가진 어르신과 집이 필요한 청년을 연결하는 주택 공유 서비스
-- 🎯 기경대 15대 학생회 **PAGE** 기획국장
+- 🎯 기술경영융합대학교 15대 학생회 **PAGE** 기획국장
 - 🤖 관심사: AI 페어 프로그래밍 워크플로우, MCP, 멀티 에이전트 툴체인
 - 📊 데이터마이닝 기반 **교통 혼잡도 예측 모델링** 경험
 
@@ -29,7 +29,7 @@
 - 💻 **Languages**: TypeScript, JavaScript, Python
 - 🌐 **Frameworks & Libraries**: React, Next.js, TailwindCSS
 - 🛢️ **Databases**: PostgreSQL, MySQL
-- ⚙️ **Tools & Platforms**: Git, GitHub, Vercel, Figma, Notion
+- ⚙️ **Tools & Platforms**: Git, GitHub, Vercel, Figma, Notion, slack
 - 📈 **Data**: Pandas, scikit-learn
 
 ---
